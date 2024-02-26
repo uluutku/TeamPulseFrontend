@@ -1,37 +1,36 @@
-# TeamPulse - Human Resources Management System (Backend)
+# TeamPulse - Human Resources Management System (Frontend)
 
-TeamPulse is a Human Resources Management System developed as a part of the BilgeAdam Boost Training Program's Final Project. It aims to provide a modern solution for managing work processes and tracking personnel efficiently.
+Welcome to TeamPulse, the cutting-edge frontend interface of our Human Resources Management System developed as the pinnacle project of the BilgeAdam Boost Training Program. TeamPulse sets a new standard for user-friendly HR solutions, designed to empower businesses and streamline personnel management.
 
-## Features
+## Key Features
 
-- **User Roles and Permissions:** Three different roles are defined in the platform: Site Administrator, Company Administrator, and Company Staff, each with distinct sets of permissions and responsibilities.
+- **Intuitive Dashboard:** Access all essential HR functions at a glance with our intuitive dashboard, designed for maximum efficiency.
   
-- **Site Administrator Functions:** Ability to create, edit, and appoint administrators for new companies. Additionally, the site administrator can manage subscription durations.
+- **Interactive User Profiles:** Allow users to customize their profiles and manage personal information effortlessly.
   
-- **Administrator Functions:** User management, handling leave/advance requests, monitoring staff performance, and generating reports.
+- **Seamless Leave Management:** Submit and track leave requests with ease, simplifying the leave approval process for both employees and administrators.
   
-- **User-Friendly Interface:** Developed with a modern and user-friendly interface to facilitate easy navigation and operation.
+- **Responsive Design:** Enjoy a seamless experience across devices, thanks to our responsive design that adapts to any screen size.
 
-## Technologies Used
+## Technologies at Play
 
-- **Back-End:** ASP.NET Core Web API (RestFul), Identity Library, JWT Bearer (Json Web Token), Fluent Validation Library, MailKit, Azure Blob Storage
-- **Design Pattern:** Onion Architecture
-- **Methodology:** Agile, Scrum
-- **DevOps Operations:** Azure DevOps Portal
-- **Database:** Azure SQL Database
+- **Frontend Technologies:** Built with React, Redux, and Material UI for a sleek and responsive user interface that enhances user experience.
+- **State Management:** Leveraging Redux for efficient state management and enhanced performance.
+- **Scalable Architecture:** Designed with scalability in mind, ensuring smooth performance even as your business grows.
+- **Continuous Integration:** Integrated with Azure DevOps Portal for seamless deployment and continuous integration.
 
-## Installation
+## Getting Started
 
-To set up the project locally, follow these steps:
+Ready to experience the future of HR management? Follow these simple steps to set up TeamPulse frontend:
 
-1. **Clone the Repository:** Clone the backend repository to your local machine.
-2. **Install Dependencies:** Navigate to the cloned repository directory and install the required packages.
-3. **Database Setup:** Create and configure the necessary database structure on MSSQL Database.
+1. **Clone the Repository:** Clone the frontend repository to your local machine.
+2. **Install Dependencies:** Navigate to the project directory and install the required packages.
+3. **Start the Development Server:** Launch the development server and start exploring the power of TeamPulse.
 
-## Contributions
+## Contributions Welcome
 
-Contributions are welcome! If you find any issues or have suggestions, please open a pull request. Prior to significant changes, please discuss them in the designated discussion section.
+We value collaboration and welcome contributions from the community! If you have any ideas for improvement, feature requests, or bug fixes, please feel free to open a pull request. Together, let's shape the future of HR management.
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](link) file.
+TeamPulse is licensed under the MIT License. For more details, please refer to the [LICENSE](link) file.
